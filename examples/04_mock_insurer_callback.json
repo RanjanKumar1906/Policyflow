@@ -1,0 +1,6 @@
+{
+  "event_id": "EVT-CALLBACK-001",
+  "event_type": "POLICY_ISSUED",
+  "provider_reference": "PRV-EXAMPLE-1234",
+  "policy_number": "POL-2026-CONFIRMED"
+}
